@@ -1,6 +1,6 @@
 
 
-superbowlWin(record) {
+superbowlWin = record => {
   return record.find()
 }
 
